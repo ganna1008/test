@@ -4,6 +4,7 @@
       <style>
         .container {
           display: flex;
+              flex-direction: column;
           width: 100%;
           height: 300px;
           background-color: black;
@@ -18,7 +19,7 @@
 
       <div class="container">
         <h1>Hi there, my name is Nikola 👋</h1>
-        <div>
+        <div class="color-red">
             <p>blolbfvlbdlvbxclbvlxcblvblb</p>
                <p>Fig2</p>
 
