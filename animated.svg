@@ -18,7 +18,12 @@
 
       <div class="container">
         <h1>Hi there, my name is Nikola 👋</h1>
-        <p>blolbfvlbdlvbxclbvlxcblvblb</p>
+        <div>
+            <p>blolbfvlbdlvbxclbvlxcblvblb</p>
+               <p>Fig2</p>
+
+        </div>
+    
       </div>
 <div class="color-red">
 <p>blolbfvlbdlvbxclbvlxcblvblb</p>
