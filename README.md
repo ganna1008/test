@@ -1,6 +1,6 @@
 (setq markdown-xhtml-header-content "<style type='text/css'>
 
-color: blue;
+color: red;
 
 font-size: 16px;
 
