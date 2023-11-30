@@ -1,4 +1,4 @@
-(setq markdown-xhtml-header-content "<style type='text/css'> text-color. { color: blue; } </style>")
+(set markdown-xhtml-header-content "<style type='text/css'> text-color. { color: blue; } </style>")
 
 # React homework template
 
