@@ -1,3 +1,4 @@
+<header>
 <style>
 
 text-color. {
@@ -9,6 +10,8 @@ font-size: 16px;
 }
 
 </style>
+
+</header>
 
 # React homework template
 
