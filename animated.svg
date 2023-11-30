@@ -22,7 +22,7 @@
         <div class="color-red">
             <p>blolbfvlbdlvbxclbvlxcblvblb</p>
             <!-- <img src="foto/domene.png" alt="Girl in a jacket" width="500" height="600"> -->
-            <img src="../foto/domene.png" alt="Girl in a jacket" width="500" height="600">
+            <img src="./foto/domene.png" alt="Girl in a jacket" width="500" height="600">
                <p>Fig2</p>
 
         </div>
