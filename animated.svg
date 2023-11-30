@@ -17,11 +17,13 @@
 
       <div class="container">
         <h1>Hi there, my name is Nikola 👋</h1>
-      </div>
-      
+
+              
       <div class="container">
     <img rc="https://media.gq-magazin.de/photos/63188086fda8a1210ef3c6f5/4:3/w_2844,h_2133,c_limit/tom%20hardy.jpg" alt="Girl in a jacket" width="500" height="600"/>
       <p class="center-me">fig1</p>
+      </div>
+
       </div>
 
 
