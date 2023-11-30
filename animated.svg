@@ -6,24 +6,14 @@
           display: flex;
           width: 100%;
           height: 300px;
-          background-color: blue;
+          background-color: black;
           color: white;
-        }
-        .center-me {
-            margin:0 auto;
-              color: green;
         }
       </style>
 
       <div class="container">
         <h1>Hi there, my name is Nikola 👋</h1>
       </div>
-
-   
-
-
-
-
     </div>
   </foreignObject>
 </svg>
