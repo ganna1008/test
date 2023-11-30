@@ -1,3 +1,15 @@
+<style>
+
+text-color. {
+
+color: blue;
+
+font-size: 16px;
+
+}
+
+</style>
+
 # React homework template
 
 Этот проект был создан при помощи [Create React App](https://github.com/facebook/create-react-app).
@@ -72,5 +84,5 @@ Pages, в ветку `gh-pages`, каждый раз когда обновляе
 
 <div>
 <img src="https://www.leben-und-erziehen.de/sites/default/files/styles/4x3__900x675/public/promieltern/990154-tom-hardy-neu-q.webp?itok=Te7fDJsG" alt="Girl in a jacket" width="500" height="600">
-<p>Figure 1</p>
+<p class="text-color">Figure 1</p>
 </div>
