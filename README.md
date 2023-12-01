@@ -19,8 +19,8 @@
   <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
 </div> -->
 
-<p align="center">
+<div align="center">
   <img src="./foto/domene.png" alt="Описание изображения">
-</p>
+</div>
 
   <img src="./foto/domene.png" alt="Описание изображения">
