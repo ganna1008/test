@@ -22,3 +22,5 @@
 <p align="center">
   <img src="./foto/domene.png" alt="Описание изображения">
 </p>
+
+  <img src="./foto/domene.png" alt="Описание изображения">
