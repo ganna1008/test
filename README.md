@@ -15,6 +15,10 @@
 На следующем шаге откроется страница создания нового репозитория. Заполни поле его имени, убедись
 что репозиторий публичный, после чего нажми кнопку `«Create repository from template»`.
 
-<div style="width: 100%;">
+<!-- <div style="width: 100%;">
   <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+</div> -->
+
+<p align="center">
+  <img src="./foto/domene.png" alt="Описание изображения">
+</p>
