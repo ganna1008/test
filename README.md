@@ -20,7 +20,7 @@
 </div> -->
 
 <div align="center">
-  <img src="./foto/domene.png" alt="Описание изображения">
+  <img width="200" height="300" src="./foto/domene.png" alt="Описание изображения">
 </div>
 
   <img src="./foto/domene.png" alt="Описание изображения">
